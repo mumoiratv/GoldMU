@@ -1,0 +1,8 @@
+#include "StdAfx.h"
+#include "CustomMenu.h"
+#include "Central.h"
+#include "Defines.h"
+#include "PrintPlayer.h"
+#include "CustomRanking.h"
+#include "VongQuayMM.h"
+#include "CustomJewelBank.h"
